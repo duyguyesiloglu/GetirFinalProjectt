@@ -35,6 +35,8 @@ Welcome to GetirLiteApp! Our app delivers deliciousness straight to your door, c
 - Add all ingredients for a recipe to your cart with one click.
 
 ## Screenshots
+![Simulator Screen Shot - Iphone14Pro - 2024-04-25 at 08 28 19](https://github.com/duyguyesiloglu/GetirFinalProjectt/assets/110973866/a09b11bd-9630-4042-9c0b-1fc8ce7e4e90)
+![Simulator Screen Shot - Iphone14Pro - 2024-04-25 at 08 28 28](https://github.com/duyguyesiloglu/GetirFinalProjectt/assets/110973866/7bd9b829-6168-4c35-8124-e66f15d17ebf)
 
 ![Welcome Screen](https://github.com/duyguyesiloglu/GetirFinalProjectt/assets/110973866/3233844a-188a-4ce7-8f15-a390bf6914e0)
 ![Connect to Courier](https://github.com/duyguyesiloglu/GetirFinalProjectt/assets/110973866/0be8c31a-d7bf-4138-969a-8dc5b047c25f)
