@@ -25,9 +25,9 @@ class WheelOverlayView: UIView {
         let imageView1 = UIImageView(image: image1)
         let imageView2 = UIImageView(image: image2)
         
-        // ImageView boyutlarını ve konumlarını ayarlayın. 'y' değerini azaltarak görseli yukarı alabilirsiniz.
-        imageView1.frame = CGRect(x: (self.bounds.width - 220) / 2, y: -50, width: 100, height: 50) // Örnek y koordinatı 10 olarak ayarlandı
-        imageView2.frame = CGRect(x: imageView1.frame.maxX + 10, y: -80, width: 130, height: 90) // Burada da 'y' 10
+       
+        imageView1.frame = CGRect(x: (self.bounds.width - 220) / 2, y: -50, width: 100, height: 50) 
+        imageView2.frame = CGRect(x: imageView1.frame.maxX + 10, y: -80, width: 130, height: 90) 
         
         imageView1.contentMode = .scaleAspectFit
         imageView2.contentMode = .scaleAspectFit
